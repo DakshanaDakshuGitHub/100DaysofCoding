@@ -24,6 +24,8 @@
 
 7(B) [Given three integers, print the least of them.](CodeDay7(B).md)
 
-8) [](CodeDay8.md)
+8) [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](CodeDay8.md)
 
+9(A) [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](CodeDay9(A).md)
 
+9(B) [](CodeDay7(B).md)
