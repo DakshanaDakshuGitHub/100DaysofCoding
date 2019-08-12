@@ -1,0 +1,1 @@
+## If the boolean 'rev' is True (or 1), then reverse the order of printing.   - "PugsJugsMugs" for multiples of 3, 5 and 7  - "PugsMugs" for multiple of 5 and 7  - "MugsJugs" for multiple of 3 and 5   - "PugsJugs" for multiple of 3 and 7
