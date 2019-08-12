@@ -18,4 +18,6 @@
 
 6(A) [Write a program to calculate the distance between two points.](CodeDay6(A).md)
 
-6(B) [](CodeDay6(B).md)
+6(B) [Given a three-digit number. Find the sum of its digits.](CodeDay6(B).md)
+
+7(A) [](CodeDay7(A).md)
