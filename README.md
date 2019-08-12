@@ -15,3 +15,7 @@
 5(A) [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](CodeDay5(A).md)
 
 5(B) [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](CodeDay5(B).md)
+
+6(A) [Write a program to calculate the distance between two points.](CodeDay6(A).md)
+
+6(B) [](CodeDay6(B).md)
