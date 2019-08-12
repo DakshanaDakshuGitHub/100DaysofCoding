@@ -20,4 +20,4 @@
 
 6(B) [Given a three-digit number. Find the sum of its digits.](CodeDay6(B).md)
 
-7(A) [](CodeDay7(A).md)
+7(A) [Given an integer, print "odd" if it's odd and print "even" otherwise.](CodeDay7(A).md)
