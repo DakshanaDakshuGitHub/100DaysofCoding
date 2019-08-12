@@ -8,4 +8,6 @@
 
 3) [After you complete the 10th level, what is the JavaScript code you got? Cut and paste and assign it to the variable level_10_code.How many blocks did you have left? Assign it to the variable remaining_blocks.](CodeDay3.md)
 
-4) [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](CodeDay4.md)
+4(A) [Write a program that reads an integer number and prints its previous and next numbers. See the example below.](CodeDay4(A).md)
+
+4(B) [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](CodeDay4(B).md)
