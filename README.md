@@ -28,4 +28,6 @@
 
 9(A) [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](CodeDay9(A).md)
 
-9(B) [](CodeDay7(B).md)
+10(A) [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number](CodeDay10(A).md)
+
+10(B) [](CodeDay10(B).md)
