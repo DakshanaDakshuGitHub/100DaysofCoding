@@ -21,3 +21,5 @@
 6(B) [Given a three-digit number. Find the sum of its digits.](CodeDay6(B).md)
 
 7(A) [Given an integer, print "odd" if it's odd and print "even" otherwise.](CodeDay7(A).md)
+
+7(B) [Given three integers, print the least of them.](CodeDay7(B).md)
