@@ -68,7 +68,7 @@
 
 24) [Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](CodeDay024.md)
 
-25)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).}(CodeDay025.md)
+25)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...)](CodeDay025.md)
 
 26) [Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](CodeDay026.md)
 
