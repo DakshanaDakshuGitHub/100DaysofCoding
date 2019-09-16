@@ -1,4 +1,5 @@
-## Given a three-digit number. Find the sum of its digits.
+### Given a three-digit number. Find the sum of its digits.
+#### SAMPLE:
 ```
 Example input
 123
@@ -6,16 +7,13 @@ Example input
 Example output
 6
 ```
+#### PROGRAM:
+```
 num = int(input())
-
 sum = 0
-
 while(num != 0):
-
-n = num % 10
-
-sum = sum + n
-
-num = num // 10
-
+   n = num % 10
+   sum = sum + n
+   num = num // 10
 print(sum)
+```
