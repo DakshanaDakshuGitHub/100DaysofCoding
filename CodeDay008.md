@@ -1,4 +1,5 @@
-## Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.
+### Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.
+#### SAMPLE:
 ```
 Example input #1
 1
@@ -14,33 +15,21 @@ Example input #2
 Example output #2
 28
 ```
+#### PROGRAM:
+```
 a = int(input())
-
 if a == 2:
-   
    print("28")
-
 elif a == 7 or a == 8 :
-
-print("31")
-
+   print("31")
 elif a < 7 :
-
-if a % 2 == 0:
-
-print("30")
-
-else:
-
-print("31")
-
+   if a % 2 == 0:
+      print("30")
+   else:
+      print("31")
 elif a > 8:
-
-if a % 2 == 0 :
-
-
-print("31")
-
-else:
-
-print("30")
+   if a % 2 == 0 :
+      print("31")
+   else:
+      print("30")
+```
